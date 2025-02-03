@@ -1,21 +1,3 @@
-# Accessibility
-
-## Exercice
-
-Trouvez les erreurs d'accessibilité dissimulées dans la page web.
-
-Démarrer le projet
-npm install
-npm run start
-
-Quelques ressources :
-
-https://www.w3.org/WAI/WCAG22/quickref/
-
-https://github.com/pa11y/pa11y
-
-https://webaim.org/resources/contrastchecker/
-
 ### Installation de Pa11y
 
 - npm install -g pa11y

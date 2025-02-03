@@ -1,0 +1,15 @@
+.btn {
+    background: blue;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#contact {
+    color: #767676;
+    background: #fff;
+}
+
+#contact h2 {
+    color: #949494;
+}
