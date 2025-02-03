@@ -1,5 +1,10 @@
 {
   "urls": ["http://localhost:3000"],
   "standard": "WCAG2AA",
-  "threshold": 3
+  "threshold": 3,
+  "defaults": {
+    "chromeLaunchConfig": {
+      "args": ["--no-sandbox"]
+    }
+  }
 }
